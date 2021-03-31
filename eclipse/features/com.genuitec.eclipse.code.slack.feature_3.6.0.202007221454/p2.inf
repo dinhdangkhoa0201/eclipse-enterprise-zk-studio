@@ -1,0 +1,46 @@
+ requires.0.namespace = org.eclipse.equinox.p2.iu
+ requires.0.name = com.genuitec.eclipse.webclipse.slack.feature.feature.group
+ requires.0.min = 0
+ requires.0.max = 0
+ 
+ ## REQUIREMENTS FOR CHROMIUM ON WINDOWS 64
+
+requires.4.namespace=org.eclipse.equinox.p2.iu
+requires.4.name=com.github.jnr.ffi
+requires.4.range=2.1.9
+requires.4.filter=(&(osgi.arch=x86_64)(osgi.os=win32))
+
+requires.5.namespace=org.eclipse.equinox.p2.iu
+requires.5.name=com.github.jnr.jffi
+requires.5.range=1.2.15
+requires.5.filter=(&(osgi.arch=x86_64)(osgi.os=win32))
+
+requires.6.namespace=org.eclipse.equinox.p2.iu
+requires.6.name=com.github.jnr.jffi.native
+requires.6.range=1.2.15
+requires.6.filter=(&(osgi.arch=x86_64)(osgi.os=win32))
+
+requires.7.namespace=org.eclipse.equinox.p2.iu
+requires.7.name=com.make.chromium.cef.win32.win32.x86_64
+requires.7.range=68.0.0
+requires.7.filter=(&(osgi.arch=x86_64)(osgi.os=win32))
+
+requires.8.namespace=org.eclipse.equinox.p2.iu
+requires.8.name=jnr.x86asm
+requires.8.range=1.0.2
+requires.8.filter=(&(osgi.arch=x86_64)(osgi.os=win32))
+
+requires.9.namespace=org.eclipse.equinox.p2.iu
+requires.9.name=org.eclipse.swt.chromium
+requires.9.range=68.0.0
+requires.9.filter=(&(osgi.arch=x86_64)(osgi.os=win32))
+
+requires.10.namespace=org.eclipse.equinox.p2.iu
+requires.10.name=org.eclipse.swt.chromium.win32.win32.x86_64
+requires.10.range=68.0.0
+requires.10.filter=(&(osgi.arch=x86_64)(osgi.os=win32))
+
+requires.11.namespace=org.eclipse.equinox.p2.iu
+requires.11.name=org.eclipse.swt.chromium.64b
+requires.11.range=68.0.0
+requires.11.filter=(&(osgi.arch=x86_64)(osgi.os=win32))

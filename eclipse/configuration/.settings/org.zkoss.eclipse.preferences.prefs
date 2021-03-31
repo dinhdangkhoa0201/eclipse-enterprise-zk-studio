@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+org.zkoss.eclipse.activator=zkt210331160321_0
+services.show_welcomepage_at_first_time=false
+services.show_welcomepage_at_startup=false

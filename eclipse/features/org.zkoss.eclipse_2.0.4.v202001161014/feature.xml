@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.zkoss.eclipse"
+      label="ZK Studio"
+      version="2.0.4.v202001161014"
+      provider-name="%providerName"
+      plugin="org.zkoss.eclipse.brand">
+
+   <description>
+      %description
+   </description>
+
+   <copyright url="%copyrightURL">
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <url>
+      <update label="ZK Studio" url="http://studio.zkoss.org/resource/plugins/eclipse_4_2"/>
+   </url>
+
+   <plugin
+         id="org.zkoss.eclipse.brand"
+         download-size="0"
+         install-size="0"
+         version="2.0.4.v202001161014"
+         unpack="false"/>
+
+   <plugin
+         id="org.zkoss.eclipse.editor"
+         download-size="0"
+         install-size="0"
+         version="2.0.4.v202001161014"
+         unpack="false"/>
+
+   <plugin
+         id="org.zkoss.eclipse.pack"
+         download-size="0"
+         install-size="0"
+         version="2.0.4.v202001161014"
+         unpack="false"/>
+
+   <plugin
+         id="org.zkoss.eclipse.services"
+         download-size="0"
+         install-size="0"
+         version="2.0.4.v202001161014"
+         unpack="false"/>
+
+   <plugin
+         id="org.zkoss.eclipse.setting"
+         download-size="0"
+         install-size="0"
+         version="2.0.4.v202001161014"
+         unpack="false"/>
+
+   <plugin
+         id="org.zkoss.eclipse.zks"
+         download-size="0"
+         install-size="0"
+         version="2.0.4.v202001161014"
+         unpack="false"/>
+
+</feature>

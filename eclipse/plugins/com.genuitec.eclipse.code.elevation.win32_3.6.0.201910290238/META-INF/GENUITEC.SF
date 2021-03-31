@@ -1,0 +1,27 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: XFi8kuSj/186fDYSKKYiU2RetxZ89
+ 1HbBxS7/WFVl9U=
+SHA-256-Digest-Manifest: 3hrgBnyANuuBYgNPQItB1WvxDMeZcqKwykriLxiovVQ=
+Created-By: 1.8.0_45 (Oracle Corporation)
+
+Name: com/genuitec/eclipse/code/elevation/win32/windowsdefender/Window
+ sDefenderChecker.class
+SHA-256-Digest: rIfyaVjsxtK3fyAx8/b7FHlgDTRGcX7BUZ5qoY0l5jE=
+
+Name: com/genuitec/eclipse/code/elevation/win32/windowsdefender/Window
+ sDefenderChecker$CheckResult.class
+SHA-256-Digest: Q7DZqhLfNBpVUKontRLE0dZqLiKGHJaArfSFITkCcgc=
+
+Name: resources/launcher.exe
+SHA-256-Digest: 6QVd1JQgaaK9at6r7fVHKm+uk/AlwxBp/AHR7GmKDDo=
+
+Name: com/genuitec/eclipse/code/elevation/win32/windowsdefender/Window
+ sDefenderChecker$RealtimeScanningStatus.class
+SHA-256-Digest: +PphuefUYdX2E8rAW6MtI74bMhVQLaLmKf8E5OFpymE=
+
+Name: com/genuitec/eclipse/code/elevation/win32/ElevationPlugin.class
+SHA-256-Digest: dSP8vfb9XFIJ+zCy0HGDM88knZOdEQwo8aGDD+2LI6U=
+
+Name: resources/elevator.exe
+SHA-256-Digest: cUmFDYd8JVbNY4ivZhdZ9nctY6HH6dDQRxVM1AKfQa0=
+

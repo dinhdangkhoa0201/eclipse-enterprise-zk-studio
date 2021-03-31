@@ -1,0 +1,42 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: com.genuitec.eclipse.code.elevation.win32
+Bundle-SymbolicName: com.genuitec.eclipse.code.elevation.win32
+Archiver-Version: Plexus Archiver
+Built-By: jenkins
+Require-Bundle: org.eclipse.core.runtime,com.genuitec.eclipse.code.cor
+ e
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: GENUITEC
+Export-Package: com.genuitec.eclipse.code.elevation.win32.windowsdefen
+ der
+Bundle-Name: Win32
+Bundle-Version: 3.6.0.201910290238
+Bundle-Activator: com.genuitec.eclipse.code.elevation.win32.ElevationP
+ lugin
+Created-By: Apache Maven 3.5.0
+Build-Jdk: 1.8.0_45
+Eclipse-BundleShape: dir
+
+Name: com/genuitec/eclipse/code/elevation/win32/windowsdefender/Window
+ sDefenderChecker.class
+SHA-256-Digest: A1SyWcBbY5wq06i3ouYxPwxGtczB8TH3qeKRUSvcX30=
+
+Name: com/genuitec/eclipse/code/elevation/win32/windowsdefender/Window
+ sDefenderChecker$CheckResult.class
+SHA-256-Digest: wVv1Y0TK0SpfPD17Kw8IgBKDvhHqzdg5wwaKeRAk6dQ=
+
+Name: resources/launcher.exe
+SHA-256-Digest: MgcJkaL92y3uQhPaWlpO1NyE7frgvLD+iTlXbPZ8nxA=
+
+Name: com/genuitec/eclipse/code/elevation/win32/windowsdefender/Window
+ sDefenderChecker$RealtimeScanningStatus.class
+SHA-256-Digest: fNd1ahbN2pJBMQ7SYOlwGOj/mB7r1mva8f2+M0R90v8=
+
+Name: com/genuitec/eclipse/code/elevation/win32/ElevationPlugin.class
+SHA-256-Digest: Y9JmMNHOoQUZ9REgChQGaYwTseFwKlK+ekEFGF4/seU=
+
+Name: resources/elevator.exe
+SHA-256-Digest: hPwEoqTHR8usDZlYUGG0mAP4d45PjvU2uhANBwTN0tA=
+
